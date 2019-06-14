@@ -1,0 +1,2 @@
+# assignment
+In this project we have to make a Registration Form with Login Page, User Dashboard and Admin Dashboard.  Registration form having some fields like first name, last name, institute name, DOB, submit button etc. Login page having some fields like Email id, password, forget password etc. In the user dashboard, user can see &amp; edit their details. In the admin dashboard, admin can see all the user details and also can delete any user.
